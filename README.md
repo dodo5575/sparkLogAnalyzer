@@ -16,10 +16,10 @@ using spark dataFrame.
 ├── run.sh   
 └── spark   
     ├── build.sbt
-    ├── src
-    └── main
-        └── scala  ## contains all of the code files
-            ├── logAnalyzer.scala
-            └── parser.scala
+    └── src
+        └── main
+            └── scala  ## contains all of the code files
+                ├── logAnalyzer.scala
+                └── parser.scala
 ```
 You can run it using `run.sh`.
