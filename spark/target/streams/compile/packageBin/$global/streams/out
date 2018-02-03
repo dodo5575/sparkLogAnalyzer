@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/log-analyzer_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser/logData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/parser/logData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/logAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logAnalyzer$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/logAnalyzer$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser/parser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/parser/parser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logAnalyzer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/logAnalyzer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser/parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/parser/parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/parser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/logAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser/logData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/chen-yuli/Desktop/scala_spark/sparkLogAnalyzer/spark/target/scala-2.11/classes/parser/logData$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
